@@ -320,18 +320,21 @@ margin-right: 35px;
 
 }
 
-#menuBall1 {
--webkit-animation: bump 6s linear 0s infinite normal;
--webkit-animation: bounce .3s infinite alternate;
-  -moz-animation: bounce .3s infinite alternate;
-  animation: bounce .3s infinite alternate;
-  margin-right: 140px;
-  margin-top: -1px;
-}
-
-#menuBall1 {
-animation: bump 6s linear 0s infinite normal;
-}
+/* #menuBall1 {
+  -webkit-animation: bump 6s linear 0s infinite normal;
+  -webkit-animation: bounce .3s infinite alternate;
+    -moz-animation: bounce .3s infinite alternate;
+    animation: bounce .3s infinite alternate;
+    margin-right: 140px;
+    margin-top: -1px;
+  }
+  
+  #menuBall1 {
+      animation: bounce .3s infinite alternate;
+      margin-right: 140px;
+      margin-top: -1px;  
+    } */
+  
 
 
 

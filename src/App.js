@@ -7,7 +7,7 @@ import './App.css';
 import {Button , Form , FormGroup , Label , Input} from 'reactstrap';
 import Sidebar from './components/sidebar';
 //import {pollform} from './components/pollform'
-import {CountryFlags} from './components/countryFlag';
+import {CountryFlags} from './components/CountryFlags';
 /*class App extends Component {
 render() {
   return (
